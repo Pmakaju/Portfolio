@@ -211,7 +211,7 @@
 
 @media (max-width: 426px) {
     .section-2 {
-        padding: 80px 0px 50px 0px;
+        padding: 80px 0px 80px 0px;
     }
 
     .primary-heading {
@@ -1278,4 +1278,9 @@
 
 .skills__img {
   border-radius: .5rem;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
 }
